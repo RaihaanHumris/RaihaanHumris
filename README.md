@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: Hello I'm Muhammad Raihaan Humris 
 - 🏫 Saat ini sedang belajar di **MAKN Ende** dan sedang bersiap untuk Praktik Kerja Lapangan (PKL).<br>- 💡 Fokus Saya: Saya terbiasa membangun aplikasi web dari nol, mulai dari sistem manajemen inventaris, platform belajar interaktif, hingga katalog *streaming*.<br>- ⚡ Fun Fact: Kalau lagi nggak ngoding, saya biasanya *workout* kalistenik di asrama atau asyik ngerjain latihan soal matematika buat persiapan SNBT/ujian mandiri.
 
 
