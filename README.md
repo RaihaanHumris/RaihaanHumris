@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:3B82F6,100:06B6D4&height=220&section=header&text=Raihaan%20Humris&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20%26%20Mobile%20Developer%20%7C%20MAKN%20Ende&descAlignY=60&descAlign=50" width="100%" alt="Raihaan Humris Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:3B82F6,100:06B6D4&height=220&section=header&text=Raihaan%20Humris&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20and%20Mobile%20Developer%20%7C%20MAKN%20Ende&descAlignY=60&descAlign=50" width="100%" alt="Raihaan Humris Banner" />
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Raihaan+Humris;Hello+I'm+Muhammad+Raihaan+Humris;Fullstack+Web+%26+Mobile+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Raihaan+Humris;Hello+I'm+Muhammad+Raihaan+Humris;Fullstack+Web+and+Mobile+Developer" alt="Typing SVG" />
   </a>
 </div>
 
